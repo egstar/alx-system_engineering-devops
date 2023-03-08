@@ -60,3 +60,7 @@
 - Copy HTML files 
 
 	- Command `cp -un *.html ../` to copy all .html files from the current directoy to parent directory, if the files does not exists or newer.
+
+- Let’s move 
+
+	- Command `mv -R * /tmp/u | grep ^[A-Z]` to move all files that starts with UPPERCASE to the directory /tmp/u.
