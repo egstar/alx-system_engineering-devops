@@ -26,4 +26,22 @@
 
 - Welcome
 
-	- Command `mkdir` to create a directory
+	- Command `mkdir` to create a directory.
+
+- Betty in my first directory 
+
+	- Command `mv` to move/rename files.
+
+- Bye bye Betty
+
+	- Command `rm -rf` to delete a file/directory.
+
+- Bye bye My first directory 
+
+	- Command `rmdir` to remove a directory.
+
+-Back to the future 
+
+	- Command `cd -` to change the current directory to the previous directory.
+
+
