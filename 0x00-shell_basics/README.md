@@ -10,7 +10,7 @@
 
 - There is no place like home
 
-	- Command `cd` or **cd ~** to go to the home directory
+	- Command `cd` or `cd ~` to go to the home directory
 
 - The long format
 
@@ -20,3 +20,10 @@
 
 	- Command `ls -al` to display the current directory's files/folders in listing mode including hidden files "."
 
+- I Love Numbers
+
+	- Command `ls -an` or `ll -n` to display the current directory's files/folder in listing mode including hidden files "." with digit uid.
+
+- Welcome
+
+	- Command `mkdir` to create a directory
