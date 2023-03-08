@@ -75,3 +75,7 @@
 - Life is series of commas, not period
 
 	- Command `ls -amp | sort -d` to list all files in alpha order separated with commas and display the ./ and ../ directories at the start.
+
+- File type: School
+
+	- used the magic database to find the corresponding files types using `file` command.
