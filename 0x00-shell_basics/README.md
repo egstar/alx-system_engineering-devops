@@ -8,3 +8,7 @@
 
 	- Command **ls** to display the current directory's files/folders
 
+
+- There is no place like home
+
+	- Command *cd** or **cd ~** to go to the home directory
