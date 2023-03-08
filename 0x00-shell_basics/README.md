@@ -2,18 +2,21 @@
 
 - Where Am I?
 
-	- Command **pwd** to display the current working directory.
+	- Command `pwd` to display the current working directory.
 
 - What's in there?
 
-	- Command **ls** to display the current directory's files/folders
-
+	- Command `ls` to display the current directory's files/folders
 
 - There is no place like home
 
-	- Command **cd** or **cd ~** to go to the home directory
+	- Command `cd` or **cd ~** to go to the home directory
 
 - The long format
 
-	- Command **ls -l** to display the current directoy's files/folders in listing mode
+	- Command `ls -l` to display the current directory's files/folders in listing mode
+
+- Hidden files
+
+	- Command `ls -al` to display the current directory's files/folders in listing mode including hidden files "."
 
