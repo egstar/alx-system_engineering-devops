@@ -65,6 +65,9 @@
 
 	- Command `mv [[:upper:]]* /tmp/u` to move all files that starts with UPPERCASE to the directory /tmp/u.
 
--Clean Emacs 
+- Clean Emacs 
 
 	- Command `rm -rf *~` to clean all files ends with the character ~.
+- Tree
+
+	- Command `mkdir -p welcome/to/school` will create a tree directories like welomce then welcome/to then welcome/to/school.
