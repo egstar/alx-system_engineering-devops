@@ -63,4 +63,4 @@
 
 - Let’s move 
 
-	- Command `mv ^[A-Z]* /tmp/u` to move all files that starts with UPPERCASE to the directory /tmp/u.
+	- Command `mv [[:upper:]]* /tmp/u` to move all files that starts with UPPERCASE to the directory /tmp/u.
