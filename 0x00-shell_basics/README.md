@@ -47,4 +47,12 @@
 
 - Lists
 
-	- Command `ls -al ./ ../ /boot` to list all files/folders into the current, parrent and /boot directories
+	- Command `ls -al . .. /boot` to list all files/folders into the current, parrent and /boot directories
+
+- File type
+
+	- Command `file` to display the file type of the target filename.
+
+- We are symbols, and inhabit symbols 
+
+	- Command `ln` to create a link for the desired file/directory.
