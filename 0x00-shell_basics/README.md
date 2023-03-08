@@ -64,3 +64,7 @@
 - Let’s move 
 
 	- Command `mv [[:upper:]]* /tmp/u` to move all files that starts with UPPERCASE to the directory /tmp/u.
+
+-Clean Emacs 
+
+	- Command `rm -rf *~` to clean all files ends with the character ~.
