@@ -71,3 +71,7 @@
 - Tree
 
 	- Command `mkdir -p welcome/to/school` will create a tree directories like welomce then welcome/to then welcome/to/school.
+
+- Life is series of commas, not period
+
+	- Command `ls -amp | sort -d` to list all files in alpha order separated with commas and display the ./ and ../ directories at the start.
