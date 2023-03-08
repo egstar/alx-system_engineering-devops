@@ -40,7 +40,7 @@
 
 	- Command `rmdir` to remove a directory.
 
--Back to the future 
+- Back to the future 
 
 	- Command `cd -` to change the current directory to the previous directory.
 
@@ -56,3 +56,7 @@
 - We are symbols, and inhabit symbols 
 
 	- Command `ln` to create a link for the desired file/directory.
+
+- Copy HTML files 
+
+	- Command `cp -un *.html ../` to copy all .html files from the current directoy to parent directory, if the files does not exists or newer.
