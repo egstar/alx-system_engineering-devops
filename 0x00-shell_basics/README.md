@@ -45,3 +45,6 @@
 	- Command `cd -` to change the current directory to the previous directory.
 
 
+- Lists
+
+	- Command `ls -al ./ ../ /boot` to list all files/folders into the current, parrent and /boot directories
