@@ -31,3 +31,7 @@
 - Everybody! 
 
 	- Command `chmod a+x <file>` to allow file execution by everybody
+
+- James Bond 
+
+	- Command `chmod 007 <file>` to allow all permission by others only
