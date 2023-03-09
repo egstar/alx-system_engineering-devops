@@ -35,3 +35,7 @@
 - James Bond 
 
 	- Command `chmod 007 <file>` to allow all permission by others only
+
+- John Doe
+
+	- Command `chmod 753 <file>` to set permission to -rwxr-x-wx
