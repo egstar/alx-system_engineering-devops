@@ -7,3 +7,7 @@
 - Who am i
 
 	- Command `whoami` to check current user name
+
+- Groups
+
+	- Command `groups` to display current user's groups
