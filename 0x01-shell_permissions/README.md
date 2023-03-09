@@ -19,3 +19,7 @@
 - Empty!
 
 	- Command `touch` to create a new emtpy file
+
+- Execute
+
+	- Command `chmod u+x <file>` to allow file execution by owner
