@@ -63,3 +63,7 @@
 - Symbolic link
 
 	- Command `chown <user>:<group> -h <link_file>` to change user and group owner of a symbolic link
+
+- If only
+
+	- Command `chown --from=<target_user> <new_user> <file>` to change the user of files with some username
