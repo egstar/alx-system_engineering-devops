@@ -43,3 +43,8 @@
 - Look in the mirror
 	
 	- Command `chmod --reference=<ref_file> <file>` to copy permissions from reference file
+
+- Directories
+
+	- Command `chmode a+X ./*` to set execute  permission to sub-directories of the current directory for all users
+
