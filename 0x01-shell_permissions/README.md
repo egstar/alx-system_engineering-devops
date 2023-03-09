@@ -39,3 +39,7 @@
 - John Doe
 
 	- Command `chmod 753 <file>` to set permission to -rwxr-x-wx
+
+- Look in the mirror
+	
+	- Command `chmod --reference=<ref_file> <file>` to copy permissions from reference file
