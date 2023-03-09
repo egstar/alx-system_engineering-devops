@@ -59,3 +59,7 @@
 - Owner and group
 
 	- Command `chown <user>:<group> <file>` to change user and group of a file/directory
+
+- Symbolic link
+
+	- Command `chown <user>:<group> -h <link_file>` to change user and group owner of a symbolic link
