@@ -15,3 +15,7 @@
 - Change owner
 
 	- Command `chown <user> <file>` to change the owner of file/directory
+
+- Empty!
+
+	- Command `touch` to create a new emtpy file
