@@ -46,5 +46,9 @@
 
 - Directories
 
-	- Command `chmode a+X ./*` to set execute  permission to sub-directories of the current directory for all users
+	- Command `chmode -R a+X *` to set execute permission to sub-directories of the current directory for all users
+
+- More directories 
+
+	- Command `mkdir -m 751 my_dir` create a directory called my_dir with 751 permission
 
