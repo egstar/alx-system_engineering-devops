@@ -11,3 +11,7 @@
 - Groups
 
 	- Command `groups` to display current user's groups
+
+- Change owner
+
+	- Command `chown <user> <file>` to change the owner of file/directory
