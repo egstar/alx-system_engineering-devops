@@ -67,3 +67,7 @@
 - If only
 
 	- Command `chown --from=<target_user> <new_user> <file>` to change the user of files with some username
+
+- Star Wars
+
+	- Command `telnet <address>` to connect to remote host using telnet
