@@ -3,3 +3,7 @@
 - My name is Betty 
 
 	- Command `su` to switch user
+
+- Who am i
+
+	- Command `whoami` to check current user name
