@@ -52,3 +52,6 @@
 
 	- Command `mkdir -m 751 my_dir` create a directory called my_dir with 751 permission
 
+- Change Group
+
+	- Command `chown :<group> <file>` to change target file/directory group owner
