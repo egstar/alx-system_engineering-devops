@@ -23,3 +23,7 @@
 - Execute
 
 	- Command `chmod u+x <file>` to allow file execution by owner
+
+- Multiple permissions 
+
+	- Command `chmod ug+x,o+r <file>` to allow file execution by owner and group
