@@ -27,3 +27,7 @@
 - Multiple permissions 
 
 	- Command `chmod ug+x,o+r <file>` to allow file execution by owner and group
+
+- Everybody! 
+
+	- Command `chmod a+x <file>` to allow file execution by everybody
