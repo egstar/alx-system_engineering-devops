@@ -55,3 +55,7 @@
 - Change Group
 
 	- Command `chown :<group> <file>` to change target file/directory group owner
+
+- Owner and group
+
+	- Command `chown <user>:<group> <file>` to change user and group of a file/directory
