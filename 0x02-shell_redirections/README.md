@@ -89,3 +89,7 @@
 - Task 22 DJ Cut Killer 
 
 	- Command `cut -d: -f` to cut data within lenght
+
+- Task 23 Empty casks make the most noise 
+
+	- Command `find . -type f,d -empty` finds all empty files / directories
