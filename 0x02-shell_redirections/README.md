@@ -41,3 +41,11 @@
 - Task 10 No more javascript
 
 	- Command `find *.ext -type f -delete` to delete only files with some extension
+
+- Task 11 Don't just count your directories, make your directories count 
+
+	- Command `find . -mindepth 1 -type d | wc -l` count directories/sub-directories into the current working directory
+
+- Task 12
+
+	- 
