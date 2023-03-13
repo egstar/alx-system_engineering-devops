@@ -1,2 +1,2 @@
 #!/bin/bash
-ls *.gif | awk -F. '{print $1}' | sort
+ls *.gif | awk -F. '{print $1}' | LC_ALL=C sort -f
