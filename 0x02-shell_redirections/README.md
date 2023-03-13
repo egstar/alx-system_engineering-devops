@@ -37,3 +37,7 @@
 - Task 9 Duplicate last line 
 
 	- Command `tail -n 1 <filename> | cat >> <filename>` duplicate the last line at a file
+
+- Task 10 No more javascript
+
+	- Command `find *.ext -type f -delete` to delete only files with some extension
