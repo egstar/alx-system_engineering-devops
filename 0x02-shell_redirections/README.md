@@ -85,3 +85,7 @@
 - Task 21  esreveR 
 
 	- use `rev` to reverse data
+
+- Task 22 DJ Cut Killer 
+
+	- Command `cut -d: -f` to cut data within lenght
