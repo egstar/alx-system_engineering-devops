@@ -69,3 +69,7 @@
 - Task 17 I hate bins
 
 	- Command `grep -v <filter> <filename>` is used to return all results that not matchs the filter
+
+- Task 18 Letters only please 
+
+	- Command `cat <filename> | grep ^[A-Za-z]` use filters to return all lines that start with Letters only.
