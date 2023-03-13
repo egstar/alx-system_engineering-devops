@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type f -name "*.gif" | LC_ALL=C sort -f | rev | cut -f 1 -d "/" | sed -e 's/fig\.//'
+find -name "*.gif" -type f | LC_ALL=C sort -f | awk -F"/" '{print $NF}'  | sed -e 's/\.gif//'
