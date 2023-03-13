@@ -77,3 +77,7 @@
 - Task 19 A to Z
 
 	- use `tr` to replace matched words
+
+- Task 20  Without C, you would live in hiago 
+
+	- use `tr -d` to delete matched
