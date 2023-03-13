@@ -93,3 +93,7 @@
 - Task 23 Empty casks make the most noise 
 
 	- Command `find . -type f,d -empty` finds all empty files / directories
+
+- Task 24 A gif is worth ten thousand words 
+
+	- Command `ls *.gif | awk -F. '{print $1}' | sort` to print all .gif files without extenssions sorted

@@ -1,0 +1,2 @@
+#!/bin/bash
+ls *.gif | awk -F. '{print $1}' | sort
