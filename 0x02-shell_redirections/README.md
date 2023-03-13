@@ -101,3 +101,5 @@
 - Task 25 Acrostic
 
 	- Command `cut -c <num> | paste -s -d ''` to cut first line of each line and paste it without spaces
+
+- Task 26 The biggest fan
