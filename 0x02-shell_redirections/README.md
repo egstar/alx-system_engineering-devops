@@ -48,4 +48,8 @@
 
 - Task 12 What's new
 
-	- Comman `ls -t | head` display the last 10 new files
+	- Command `ls -t | head` display the last 10 new files
+
+- Task 13 Being unique is better than being perfect
+
+	- Command `uniq -u | sort` to return sorted unique items
