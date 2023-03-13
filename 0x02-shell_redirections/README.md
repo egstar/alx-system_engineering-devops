@@ -33,3 +33,7 @@
 - Task 8 Save current state of directory
 
 	- Command `ls -al | cat > <filename>` to print listing result inside a file
+
+- Task 9 Duplicate last line 
+
+	- Command `tail -n 1 <filename> | cat >> <filename>` duplicate the last line at a file
