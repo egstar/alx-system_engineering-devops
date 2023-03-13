@@ -13,3 +13,11 @@
 - Task 3 What about 2?
 
 	- Command `cat <filename> <another_file>` to display multi files contents
+
+- Task 4 Last lines of life
+
+	- Command `tail -n <number> <file>` Display specified number of lines at the end of a file
+
+- Task 5 I'd Prefer the first one actually
+
+	- Command `head -n <number> <file>` Display specified number of lines from the tom of a file
