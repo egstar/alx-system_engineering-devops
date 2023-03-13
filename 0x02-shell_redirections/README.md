@@ -81,3 +81,7 @@
 - Task 20  Without C, you would live in hiago 
 
 	- use `tr -d` to delete matched
+
+- Task 21  esreveR 
+
+	- use `rev` to reverse data
