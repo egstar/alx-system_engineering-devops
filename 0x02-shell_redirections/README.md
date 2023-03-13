@@ -98,3 +98,6 @@
 
 	- Command `find -name "*.gif" -type f | LC_ALL=C sort -f | awk -F"/" '{print $NF}' | sed -e 's/\.gif//'` find all gifs and print file names only
 
+- Task 25 Acrostic
+
+	- Command `cut -c <num> | paste -s -d ''` to cut first line of each line and paste it without spaces
