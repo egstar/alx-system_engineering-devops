@@ -5,3 +5,9 @@
 - Task 1 Confused Smiley
 
 	- Command `echo "\<SPECIAL_CHAR>" to escape special charaters.
+
+- Task 2 Let's Display a file
+
+	- Command `cat <filename>` to display a file's content.
+
+
