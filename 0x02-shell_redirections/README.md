@@ -53,3 +53,7 @@
 - Task 13 Being unique is better than being perfect
 
 	- Command `uniq -u | sort` to return sorted unique items
+
+- Task 14 It must be in that file
+
+	- Command `cat <filename> | grep <filter>` search text inside the file to get all matchs the filter
