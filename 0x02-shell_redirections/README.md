@@ -46,6 +46,6 @@
 
 	- Command `find . -mindepth 1 -type d | wc -l` count directories/sub-directories into the current working directory
 
-- Task 12
+- Task 12 What's new
 
-	- 
+	- Comman `ls -t | head` display the last 10 new files
