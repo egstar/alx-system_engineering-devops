@@ -73,3 +73,7 @@
 - Task 18 Letters only please 
 
 	- Command `cat <filename> | grep ^[A-Za-z]` use filters to return all lines that start with Letters only.
+
+- Task 19 A to Z
+
+	- use `tr` to replace matched words
