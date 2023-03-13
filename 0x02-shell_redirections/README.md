@@ -10,4 +10,6 @@
 
 	- Command `cat <filename>` to display a file's content.
 
+- Task 3 What about 2?
 
+	- Command `cat <filename> <another_file>` to display multi files contents
