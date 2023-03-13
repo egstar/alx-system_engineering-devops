@@ -29,3 +29,7 @@
 - Task 7 It's a good life that cutst iron without making a noise
 
 	- Command `echo -e > "FILENAME WITH \ESCAPED CHARS" "text"` create a file with special chars name and add content to it with new line
+
+- Task 8 Save current state of directory
+
+	- Command `ls -al | cat > <filename>` to print listing result inside a file
