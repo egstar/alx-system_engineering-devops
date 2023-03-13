@@ -25,3 +25,7 @@
 - Task 6 Line #2
 
 	- Command `cat <filename> | head -n 3 | tail -n 1` or `awk "NR==3" <filename>` to display the 3rd line
+
+- Task 7 It's a good life that cutst iron without making a noise
+
+	- Command `echo -e > "FILENAME WITH \ESCAPED CHARS" "text"` create a file with special chars name and add content to it with new line
