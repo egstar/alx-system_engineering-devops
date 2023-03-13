@@ -65,3 +65,7 @@
 - Task 16 What's next?
 
 	- Command `grep <filter> <filename> -<length>` display file contents which matches the filter and additional number of linex after it
+
+- Task 17 I hate bins
+
+	- Command `grep -v <filter> <filename>` is used to return all results that not matchs the filter
