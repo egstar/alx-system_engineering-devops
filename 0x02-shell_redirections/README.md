@@ -96,4 +96,5 @@
 
 - Task 24 A gif is worth ten thousand words 
 
-	- Command `ls *.gif | awk -F. '{print $1}' | sort` to print all .gif files without extenssions sorted
+	- Command `find -name "*.gif" -type f | LC_ALL=C sort -f | awk -F"/" '{print $NF}' | sed -e 's/\.gif//'` find all gifs and print file names only
+
