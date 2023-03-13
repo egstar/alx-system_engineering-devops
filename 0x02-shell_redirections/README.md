@@ -21,3 +21,7 @@
 - Task 5 I'd Prefer the first one actually
 
 	- Command `head -n <number> <file>` Display specified number of lines from the tom of a file
+
+- Task 6 Line #2
+
+	- Command `cat <filename> | head -n 3 | tail -n 1` or `awk "NR==3" <filename>` to display the 3rd line
