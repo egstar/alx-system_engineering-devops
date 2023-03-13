@@ -61,3 +61,7 @@
 - Task 15 Count the word 
 
 	- Command `cat <filename> | grep <filter> | wc -l` Count lines of filtered results
+
+- Task 16 What's next?
+
+	- Command `grep <filter> <filename> -<length>` display file contents which matches the filter and additional number of linex after it
