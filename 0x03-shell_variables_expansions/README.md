@@ -11,3 +11,4 @@
 - Task 2 The path to success is to take massive, determined actions
 
 	- Change the PATH environment with adding new path
+\n- 8-true_knowledge\n
