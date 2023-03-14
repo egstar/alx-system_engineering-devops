@@ -7,3 +7,7 @@
 - Task 1 Hello you
 
 	- Command `id -u -n` to display username
+
+- Task 2 The path to success is to take massive, determined actions
+
+	- Change the PATH environment with adding new path
