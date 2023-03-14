@@ -12,3 +12,4 @@
 
 	- Change the PATH environment with adding new path
 \n- 8-true_knowledge\n
+\n- 8-true_knowledge\n
