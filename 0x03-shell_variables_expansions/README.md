@@ -19,3 +19,4 @@
 \n- 11-binary_to_decimal\n
 \n- Task 11\n
 \n- BINARY=10100111001\n
+\n- 11-binary_to_decimal\n
