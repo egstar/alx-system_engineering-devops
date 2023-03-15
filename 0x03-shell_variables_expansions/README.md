@@ -22,3 +22,4 @@
 \n- 11-binary_to_decimal\n
 \n- 12-combinations\n
 \n- Task 13\n
+\n- Task 14\n
