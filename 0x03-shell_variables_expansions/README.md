@@ -21,3 +21,4 @@
 \n- BINARY=10100111001\n
 \n- 11-binary_to_decimal\n
 \n- 12-combinations\n
+\n- Task 13\n
