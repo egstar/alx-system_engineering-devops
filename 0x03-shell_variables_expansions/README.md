@@ -11,18 +11,43 @@
 - Task 2 The path to success is to take massive, determined actions
 
 	- Change the PATH environment with adding new path
-\n- 8-true_knowledge\n
-\n- 8-true_knowledge\n
-\n- 8-true_knowledge\n
-\n- 9-divide_and_rule\n
-\n- 10-love_exponent_breath\n
-\n- 11-binary_to_decimal\n
-\n- Task 11\n
-\n- BINARY=10100111001\n
-\n- 11-binary_to_decimal\n
-\n- 12-combinations\n
-\n- Task 13\n
-\n- Task 14\n
-\n- Task 15\n
-\n- 102-odd\n
-\n- 103-water_and_stir\n
+
+- 8-true_knowledge
+
+	- Use a varaiable to add to number
+
+- 9-divide_and_rule
+	
+	- Divide two variables values
+
+- 10-love_exponent_breath
+
+	- use a variable to power another variable
+
+- 11-binary_to_decimal
+
+	- Change base2 to base10
+
+- 12-combinations
+	
+	- Use iteration to create a list of combained words
+
+- Task 13
+
+	- Print a float number
+
+- Task 14
+
+	- Convert Base 10 to Base 15
+
+- Task 15
+
+	- Use Translate to convert text using Rot13 Encryption
+
+- 102-odd 
+
+	- Print Odd lines only
+
+- 103-water_and_stir
+
+	- Do some functions using base 5 and base 8
